@@ -1,6 +1,8 @@
 # Moving to Sweden
 
+<!--
 ## Pre-Arrival
+-->
 
 Visit this [checklist creator](https://www.movetogothenburg.com/personal-guide/#questions) for a custom checklist.
 
