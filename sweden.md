@@ -1,22 +1,38 @@
-## Sweden
+# Sweden
 
+### 1. Residence and Work Permit
 - Current passport must be valid for >2 years
-- Migrationsverket: Acquire a residence and work permit
+    - Not mandatory for additional passports (i.e. other citizenships)?
+- [ ] Apply for and acquire a residence and work permit from **Migrationsverket**
 
-- Book an appointment with Migrationsverket to submit biometrics
+### 2. Biometrics
+- [ ] Book an appointment to submit biometrics at **Migrationsverket**
+  - Appointments may not be available for several weeks, so book in advance if possible
+  - Citizens of some countries do this in their origin country
+    - Canadians can book the appointment within Sweden (after arrival)
 
-- Tullverket: Fill out Swedish Customs forms for duty relief (if applicable)
+- [ ] Fill out Swedish Customs forms from **Tullverket** for duty relief (if applicable)
 
-- Migrationsverket: submit biometrics
-- Receive [residence permit card](https://www.migrationsverket.se/English/Private-individuals/Residence-permit-card.html) from Migrationsverket
-- Skatteverket: register in the Population Register (folkbokföring)
-- Receive personnummer from Skatteverket
-- [Försäkringskassan](www.forsakringskassan.se): [register for social services?](https://www.forsakringskassan.se/privatpers/flytta-till-arbeta-studera-eller-nyanland-i-sverige/flytta-till_sverige/!ut/p/z1/tVRRc5pAEP41Pp63wIHYNzQzOGbGNFJr5IU5YUFaOMhxgZpf34tNmoltZDJRXuCWb7_d_Xb3aEjvaCh4m2dc5ZXghT5vQidis6up4U_h2g9ur8AzVktztnR8NjHo-gCAdx4PaHja_zsNaRgLVasd3cSVUChUg5HEpq5Ek7c4gFrmLVc1ymYAabFXikcqL4qIyy3qbywKlFGjHhKUPMqjpkWZZ_iCJQes4FklXn49hazjPKGb1HTSFByXgG2MCLMTm4wh5oQl3MQEnSQew3OJf2twfcsG7_arYbEbcz4Pjkq8WTAG3mriXwcwsSxma__wADklUh_HEeDfHOY0zIpq-6dlnthabkZDiSlKlMMHqc07permywAG0HXdMKuqrMBho3X6n8euahS9ewOkAQq60VqM3k10ymjwKq6RjAyOplYTOSNsPGaEA8bEBDN2XXAZOHYfoXFuQuvMhFr6MxOaHyac902PbnD-4_4-9PSqPa3YL93bc-7acUlHa7506LrNsaMrUclSj2jwwQ2cQV8E65MRTtOP4KL0C3bZ7D8r_7zvEr_0fJ26y-tyVbrWnvxcunuraHd1-_gtLctosSB8q02PkwXxp1u309bn1_o38vRvSQ!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
-- Skatteverket: apply for reidence ID card
+- [ ] Submit biometrics at **Migrationsverket**
+- [ ] Receive the [residence permit card](https://www.migrationsverket.se/English/Private-individuals/Residence-permit-card.html) from **Migrationsverket** [1-2 weeks from appointment]
+
+- [ ] If possible, open a bank account without a personnummer (it's possible!)
+
+- [ ] Fill out the form from **Skatteverket** to register in the Population Register (folkbokföring)
+- [ ] Submit the form (and show supporting documentation) to **Skatteverket**
+  - No appointment needed
+
+- [ ] Receive personnummer from **Skatteverket** [variable time; 4-12 weeks not uncommon]
+- [ ] Mail in [Form 5456](https://www.forsakringskassan.se/privatpers/flytta-till-arbeta-studera-eller-nyanland-i-sverige/flytta-till_sverige/) from [**Försäkringskassan**](www.forsakringskassan.se) (with supporting documentation) to apply for:
+  - a [European Health Insurance Card (EHIC)](https://www.forsakringskassan.se/privatpers/resa_arbeta_studera_eller_fa_vard_utomlands/resa_utomlands/) - optional
+  - a benefit, allowance, or compensation
+
+- [ ] Book an appointment at **Skatteverket** to apply for a residence ID card
+
+- [ ] Pick up the residence ID card in person [1-2 weeks from appointment]
+
 
 <!-- https://sweden.se/society/10-tips-for-your-move-to-sweden/ -->
-
-- Open a bank account
 
 <!--
 https://sweden.se/society/20-things-to-know-before-moving-to-sweden/
