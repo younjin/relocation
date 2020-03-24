@@ -52,10 +52,10 @@ Note: All steps after this process require a mailing address in Sweden (a phone 
 
 - [ ] Receive the [residence permit card](https://www.migrationsverket.se/English/Private-individuals/Residence-permit-card.html) from **Migrationsverket** [1-2 weeks from appointment]
 
-### 3. Customs
+### Customs
 - [ ] Fill out Swedish Customs forms from **Tullverket** for duty relief (if applicable)
 
-### 4. Personnummer
+### Personnummer
 - [ ] Fill out the form from **Skatteverket** to register in the Population Register (folkbokföring)
 - [ ] Submit the form (and show supporting documentation) to **Skatteverket**
   - No appointment needed, but do this as soon as possible after receiving the residence permit card
@@ -63,7 +63,7 @@ Note: All steps after this process require a mailing address in Sweden (a phone 
 
 Note: A personnummer is required to receive healthcare as a resident.
 
-### 5. Bank Account
+### Bank Account
 - [ ] If possible, open a bank account without a personnummer
   - Certain branches of Handelsbanken, Nordea, and SEB allow this - not sure about other banks
   - Only certain banks have online banking/BankID/etc. - check for benefits of interest
@@ -71,18 +71,18 @@ Note: A personnummer is required to receive healthcare as a resident.
 
 Note: Having a Swedish bank account is crucial - Swedish employers only pay salary to Swedish bank accounts (citation needed). It's impossible to get by on cash alone, as Sweden is almost entirely cashless.
 
-### 6. Social Insurance
+### Social Insurance
 - [ ] Mail in [Form 5456](https://www.forsakringskassan.se/privatpers/flytta-till-arbeta-studera-eller-nyanland-i-sverige/flytta-till_sverige/) to [**Försäkringskassan**](www.forsakringskassan.se) (with supporting documentation) to apply for:
   - a [European Health Insurance Card (EHIC)](https://www.forsakringskassan.se/privatpers/resa_arbeta_studera_eller_fa_vard_utomlands/resa_utomlands/) - optional
   - a benefit, allowance, or compensation
 
-### 7. Residence ID Card
+### Residence ID Card
 - [ ] Book an appointment at **Skatteverket** to apply for a residence ID card
 - [ ] Pick up the residence ID card in person [1-2 weeks from appointment]
 
 Note: The residence ID card is not strictly necessary, but may be required to acquire BankID.
 
-### 8. BankID
+### BankID
 - [ ] Make an appointment with the bank to acquire BankID
 
 <!--
