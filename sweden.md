@@ -79,6 +79,7 @@ Note: Having a Swedish bank account is crucial - Swedish employers only pay sala
 - [ ] Once registered with Skatteverket (i.e. have a personnummer), mail in [Form 5456](https://www.forsakringskassan.se/privatpers/flytta-till-arbeta-studera-eller-nyanland-i-sverige/flytta-till_sverige/) to [**Försäkringskassan**](www.forsakringskassan.se) (with supporting documentation) to apply for:
   - a [European Health Insurance Card (EHIC)](https://www.forsakringskassan.se/privatpers/resa_arbeta_studera_eller_fa_vard_utomlands/resa_utomlands/) - optional
   - a benefit, allowance, or compensation
+  - NB: If it can wait, hold off on receiving dental care until registered with Försäkringskassan to receive the annual dental benefit (renews in July, not January)
 
 ### Residence ID Card
 - [ ] Book an appointment at **Skatteverket** to apply for a residence ID card
