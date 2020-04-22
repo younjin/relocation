@@ -94,6 +94,11 @@ Note: The residence ID card is not strictly necessary, but may be required to ac
 ### Digital Mailbox
 - [ ] Set up a digital mailbox (e.g. Kivra) to receive important mail digitally
 
+### Healthcare
+- [ ] Register at the local health centre
+  - Can be changed at any time (?)
+  - Required to book in-person appointments with a nurse or doctor
+
 <!--
 // todo
 - getting mail
@@ -101,7 +106,6 @@ Note: The residence ID card is not strictly necessary, but may be required to ac
 - savings accounts?
 - taxes
 - pension
-- healthcare
 // out of scope
 - driver's licence
 - student visa
