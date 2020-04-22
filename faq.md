@@ -29,7 +29,7 @@ I believe that it's sometimes important to distinguish whether one moves _away_ 
 
 ### Did you move for work?
 
-Mostly. I was offered a great opportunity, where I would be able to work with (under?) a great manager that I have a lot of respect for. 
+Mostly. I was offered a great opportunity, where I would be able to work with a great manager that I have a lot of respect for. 
 
 <!--
 This offer happened to come at a time when I was pondering Big Questions™ about life, work, and happiness
