@@ -27,7 +27,11 @@ Visit this [checklist creator](https://www.movetogothenburg.com/personal-guide/#
 
 ### Prior to Moving
 - [ ] Talk with accountants about the move/new financial situation
-- [ ] Start learning Sweidsh (e.g. Duolingo)
+- [ ] Start learning Swedish - some resources:
+  - [Duolingo](https://www.duolingo.com/) (available on web and mobile)
+  - [Swedish for Immigrants](https://vuxenutbildning.stockholm/sfi/swedish-for-immigrants/)
+  - [Learning Swedish](https://learningswedish.se/courses/)
+  - [Swedish Online](http://www.folkuniversitetet.se/In-English/Swedish-courses/Swedish-On-Line/)
 
 ### Residence and Work Permit
 - [ ] Find a job in Sweden
@@ -72,7 +76,7 @@ Note: A personnummer is required to receive healthcare as a resident.
 Note: Having a Swedish bank account is crucial - Swedish employers only pay salary to Swedish bank accounts (citation needed). It's impossible to get by on cash alone, as Sweden is almost entirely cashless.
 
 ### Social Insurance
-- [ ] Mail in [Form 5456](https://www.forsakringskassan.se/privatpers/flytta-till-arbeta-studera-eller-nyanland-i-sverige/flytta-till_sverige/) to [**Försäkringskassan**](www.forsakringskassan.se) (with supporting documentation) to apply for:
+- [ ] Once registered with Skatteverket (i.e. have a personnummer), mail in [Form 5456](https://www.forsakringskassan.se/privatpers/flytta-till-arbeta-studera-eller-nyanland-i-sverige/flytta-till_sverige/) to [**Försäkringskassan**](www.forsakringskassan.se) (with supporting documentation) to apply for:
   - a [European Health Insurance Card (EHIC)](https://www.forsakringskassan.se/privatpers/resa_arbeta_studera_eller_fa_vard_utomlands/resa_utomlands/) - optional
   - a benefit, allowance, or compensation
 
@@ -82,25 +86,21 @@ Note: Having a Swedish bank account is crucial - Swedish employers only pay sala
 
 Note: The residence ID card is not strictly necessary, but may be required to acquire BankID.
 
-### BankID
-- [ ] Make an appointment with the bank to acquire BankID
+### BankID/Swish
+- [ ] Make an appointment with the bank to acquire BankID and set up Swish
+- [ ] Depending on the bank, also set up online banking (i.e. on the web, outside of a mobile app)
+
+### Digital Mailbox
+- [ ] Set up a digital mailbox (e.g. Kivra) to receive important mail digitally
 
 <!--
 // todo
 - getting mail
 - paying bills
 - savings accounts?
-- online banking (i.e. outside of the bank's app)
-- BankID
-- Swish
-- Kivra / receiving mail digitally
 - taxes
 - pension
 - healthcare
-- Take Swedish lessons:
-  - [Swedish for Immigrants](https://vuxenutbildning.stockholm/sfi/swedish-for-immigrants/)
-  - [Learning Swedish](https://learningswedish.se/courses/)
-  - [Swedish Online](http://www.folkuniversitetet.se/In-English/Swedish-courses/Swedish-On-Line/)
 // out of scope
 - driver's licence
 - student visa
