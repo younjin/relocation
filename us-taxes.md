@@ -40,6 +40,14 @@ This file is an imperfect and probably futile attempt to catalogue all the littl
 - You get a 10-digit code for each label - get thee (and thine mail and code) to a [service point](https://locator.dhl.com/) (that’s where you can get a DHL envelope if you want)
 - You MUST do the shipping label business at home on your laptop (it’s ridiculously hard on a phone) before you go to the service point
 
+### Help, I obsessively checked everything and I still made a mistake on the shipping label
+
+If you make a mistake on the shipping label, nothing can be done until you’ve sent the packet off. (It might depend on what it is, for me the phone number was wrong.)
+
+In the meantime:
+- Write out the (correct) address and phone number on the envelope/packet itself
+- Once you send it off, call [DHL's Tracking Department](tel:+46771400345), press 2 (not 9, which is the generic English line) - they'll update the info then.
+
 ---
 
 ## Shit to go through later
