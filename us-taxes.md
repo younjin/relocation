@@ -31,7 +31,18 @@ This file is an imperfect and probably futile attempt to catalogue all the littl
 
 ---
 
-## Other weird shit
+## Mailing shit from Sweden to the US, DHL edition
+
+- [Here](https://www.irs.gov/filing/submission-processing-center-street-addresses-for-private-delivery-service-pds) are the mailing addresses for various IRS offices if you use services like DHL
+- For DHL: make a shipping label [here](https://expresseasy.se/) (and not any other DHL website, they have tons), one for each envelope/location
+- You WILL need a phone number for each IRS office - let me know which office(s) you’re sending to and I’ll tell you (they’re ridiculously hard to find, but if you want to see for yourself check [here](https://www.irs.gov/irm/part21/irm_21-008-001r), under Section 21.8.1.2.3.1)
+- The cost (399kr) includes a DHL envelope that easily fits regular A4 papers/envelopes inside, or you can use your own
+- You get a 10-digit code for each label - get thee (and thine mail and code) to a [service point](https://locator.dhl.com/) (that’s where you can get a DHL envelope if you want)
+- You MUST do the shipping label business at home on your laptop (it’s ridiculously hard on a phone) before you go to the service point
+
+---
+
+## Shit to go through later
 
 - If you're a US citizen or resident alien (e.g. green card holder) living in a foreign country, your US tax returns should be mailed to:
   ```
