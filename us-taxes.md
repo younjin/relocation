@@ -46,7 +46,7 @@ If you make a mistake on the shipping label, nothing can be done until you’ve 
 
 In the meantime:
 - Write out the (correct) address and phone number on the envelope/packet itself
-- Once you send it off, call [DHL's Tracking Department](+46771400345), press 2 (not 9, which is the generic English line) - they'll update the info then.
+- Once you send it off, call DHL's Tracking Department (`+46771400345`), press 2 (not 9, which is the generic English line) - they'll update the info then.
 
 ---
 
