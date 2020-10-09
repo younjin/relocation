@@ -37,10 +37,15 @@ I'll probably never actually do this in practice, it's very much a "do as I say,
 
 - [Here](https://www.irs.gov/filing/submission-processing-center-street-addresses-for-private-delivery-service-pds) are the mailing addresses for various IRS offices if you use services like DHL
 - For DHL: make a shipping label [here](https://expresseasy.se/) (and not any other DHL website, they have tons), one for each envelope/location
-- You WILL need a phone number for each IRS office - let me know which office(s) you’re sending to and I’ll tell you (they’re ridiculously hard to find, but if you want to see for yourself check [here](https://www.irs.gov/irm/part21/irm_21-008-001r), under Section 21.8.1.2.3.1)
-- The cost (399kr) includes a DHL envelope that easily fits regular A4 papers/envelopes inside, or you can use your own
-- You get a 10-digit code for each label - get thee (and thine mail and code) to a [service point](https://locator.dhl.com/) (that’s where you can get a DHL envelope if you want)
+- You WILL need a phone number for each IRS office - check [here](https://www.irs.gov/irm/part21/irm_21-008-001r), under Section 21.8.1.2.3.1
+- The cost (399kr) includes a DHL envelope that easily fits multiple regular A4 papers/envelopes inside, or you can use your own
+- You get a 10-digit code for each label - bring your mail and your code(s) to the nearst [service point](https://locator.dhl.com/) (that’s where you can get a DHL envelope if you want)
 - You MUST do the shipping label business at home on your laptop (it’s ridiculously hard on a phone) before you go to the service point
+
+- When you get to the service point, give them the code. They'll print out the label (and give you envelopes if you need them)
+- Stick the shipping labels on the envelopes and hand off the envelopes
+- The person will give you a "receipt" (which for me was a sticker for each tracking code/envelope)
+- You can now track the package's progress
 
 ### Help, I obsessively checked everything and I still made a mistake on the shipping label
 
