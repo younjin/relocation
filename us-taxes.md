@@ -9,6 +9,8 @@ This file is an imperfect and probably futile attempt to catalogue all the littl
 
 ## Reminders
 
+I'll probably never actually do this in practice, it's very much a "do as I say, not as I do" situation.
+
 ### During the tax year
 
 - Save a copy of last year's tax returns.
@@ -46,7 +48,7 @@ If you make a mistake on the shipping label, nothing can be done until you’ve 
 
 In the meantime:
 - Write out the (correct) address and phone number on the envelope/packet itself
-- Once you send it off, call DHL's Tracking Department (`+46771400345`), press 2 (not 9, which is the generic English line) - they'll update the info then.
+- Once you send it off, call DHL's Tracking Department (`+46771400345`), press 2 (not 9, which is the generic English line) - they'll let the driver know what the changes are. They are only open during business hours.
 
 ---
 
